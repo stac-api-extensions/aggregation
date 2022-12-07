@@ -1,4 +1,11 @@
-# Aggregation Extension
+# STAC API - Aggregation Extension
+
+- **OpenAPI specification:** TBD
+- **Conformance Classes:**
+  - <https://api.stacspec.org/v1.0.0-rc.2/aggregation>
+- **Extension [Maturity Classification](https://github.com/radiantearth/stac-api-spec/tree/v1.0.0-rc.2/README.md#maturity-classification):** Proposal
+- **Dependencies:**
+  - [Core](https://github.com/radiantearth/stac-api-spec/tree/v1.0.0-rc.2/core)
 
 The purpose of the Aggregation Extension is to provide an endpoint similar to the Search endpoint (`/search`), but which will provide aggregated information on matching Items rather than the Items themselves. This is highly influenced by the Elasticsearch aggregation endpoint, but with a more regular structure for responses.
 
