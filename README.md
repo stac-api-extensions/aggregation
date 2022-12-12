@@ -103,7 +103,9 @@ interval_day, interval_hour, interval_minute, interval_second
 | from            | numeric        | all               | |
 | to              | numeric        | all               | |
 
-## Aggregation Types
+## Aggregation Types (TBD)
+
+This section has not been updated to match the previous definitions.
 
 ### Single Value Aggregation
 
