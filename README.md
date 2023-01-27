@@ -1,4 +1,4 @@
-# STAC API - Aggregation Extension
+# STAC API Aggregation Extension Specification
 
 - **Title:** Aggregation
 - **OpenAPI specification:** TBD
