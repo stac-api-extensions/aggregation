@@ -5,7 +5,7 @@
 - **Conformance Classes:**
   - <https://api.stacspec.org/v0.2.0/aggregation>
 - **Scope:** STAC API - Core
-- **Extension [Maturity Classification](https://github.com/radiantearth/stac-api-spec/tree/main/README.md#maturity-classification):** Proposal
+- **[Extension Maturity Classification](https://github.com/radiantearth/stac-api-spec/tree/main/README.md#maturity-classification):** Proposal
 - **Dependencies:**
   - [Core](https://github.com/radiantearth/stac-api-spec/tree/v1.0.0-rc.2/core)
 - **Owner**: @philvarner
