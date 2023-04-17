@@ -172,12 +172,12 @@ Example:
                 "key": "collections",
                 "buckets": [
                     { 
-                        "key": "sentinel2_l1c",
+                        "key": "sentinel-2-l2a",
                         "value": "12649072",
                         "value_as_type": 12649072
                     },
                     {
-                        "key": "landsat8_l1tp",
+                        "key": "landsat8-c2-l2",
                         "value" : "1071997",
                         "value_as_type": 1071997
                     }
