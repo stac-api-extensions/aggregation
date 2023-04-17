@@ -1,6 +1,6 @@
 {
     "name": "aggregation",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Helpers to check the Aggregation spec.",
     "repository": "https://github.com/stac-api-extensions/aggregation",
     "license": "Apache-2.0",

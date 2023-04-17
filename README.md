@@ -3,7 +3,7 @@
 - **Title:** Aggregation
 - **OpenAPI specification:** TBD
 - **Conformance Classes:**
-  - <https://api.stacspec.org/v0.2.0/aggregation>
+  - <https://api.stacspec.org/v0.3.0/aggregation>
 - **Scope:** STAC API - Core
 - **[Extension Maturity Classification](https://github.com/radiantearth/stac-api-spec/tree/main/README.md#maturity-classification):** Proposal
 - **Dependencies:**
@@ -33,8 +33,8 @@ similarly to how the queryables endpoint is used in the Filter Extension. These 
 the `aggregations` parameter to `/aggregate` to restrict the aggregations performed.
 
 Other STAC API Extensions, notably Query and Filter, can be advertised
-with <https://api.stacspec.org/v0.2.0/aggregation#query> and
-<https://api.stacspec.org/v0.2.0/aggregation#filter>.
+with <https://api.stacspec.org/v0.3.0/aggregation#query> and
+<https://api.stacspec.org/v0.3.0/aggregation#filter>.
 
 For the links in both landing page (`/`) and collection (`/collections/{collectionId}`), it is
 **required** to add a link with the `rel` value set to `aggregate` that refers to the relevant
