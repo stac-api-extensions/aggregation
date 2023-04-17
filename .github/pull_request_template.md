@@ -10,4 +10,4 @@
 **PR Checklist:**
 
 - [ ] This PR has **no** breaking changes.
-- [ ] I have added my changes to the [CHANGELOG](https://github.com/stac-api-extensions/filter/blob/main/CHANGELOG.md) **or** a CHANGELOG entry is not required.
+- [ ] I have added my changes to the [CHANGELOG](https://github.com/stac-api-extensions/aggregations/blob/main/CHANGELOG.md) **or** a CHANGELOG entry is not required.
